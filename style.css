@@ -16,7 +16,7 @@ body{
   position: relative;
   width: 100%;
   max-width: 2000px;
-  min-height: 1500px;
+  min-height: 2000px;
   margin: 10px;
   background: #fff;
   display: grid;
